@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://armanalii07.github.io/ShayArmAdmin/sitemap.xml
